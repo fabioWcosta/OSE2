@@ -13,7 +13,7 @@ public class Main {
         int dicesDex = (int) (1 + random * (18-3));
         int dicesCon = (int) (1 + random * (18-3));
         int dicesInt = (int) (1 + random * (18-3));
-        int dicesStr = (int) (1 + random * (18-3));
+        int dicesWis = (int) (1 + random * (18-3));
         int dicesStr = (int) (1 + random * (18-3));
 
 
