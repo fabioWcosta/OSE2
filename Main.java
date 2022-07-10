@@ -20,8 +20,8 @@ public class Main {
         System.out.println("For: " + dicesStr);
         System.out.println("Des: " + dicesDex);
         System.out.println("Con: " + dicesCon);
-        System.out.println("Força: " + dicesInt);
-        System.out.println("Força: " + dicesWis);
-        System.out.println("Força: " + dicesCha);
+        System.out.println("Int: " + dicesInt);
+        System.out.println("Wis: " + dicesWis);
+        System.out.println("Car: " + dicesCha);
     }
 }
