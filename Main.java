@@ -9,7 +9,9 @@ public class Main {
         int Cha;
 
         double random = Math.random();
-        int dicesStr = (int) (1 + random * (18-3))
+        int dicesStr = (int) (1 + random * (18-3));
+
+        
 
     }
 }
