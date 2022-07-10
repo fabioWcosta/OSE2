@@ -9,6 +9,7 @@ public class Main {
         int Cha;
 
         double random = Math.random();
+        int dicesStr = 
 
     }
 }
