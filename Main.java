@@ -18,6 +18,10 @@ public class Main {
 
 
         System.out.println("Força: " + dicesStr);
-
+        System.out.println("Força: " + dicesStr);
+        System.out.println("Força: " + dicesStr);
+        System.out.println("Força: " + dicesStr);
+        System.out.println("Força: " + dicesStr);
+        System.out.println("Força: " + dicesStr);
     }
 }
