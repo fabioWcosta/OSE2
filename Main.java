@@ -17,9 +17,9 @@ public class Main {
         int dicesCha = (int) (1 + random * (18-3));
 
 
-        System.out.println("Força: " + dicesStr);
-        System.out.println("Força: " + dicesDex);
-        System.out.println("Força: " + dicesCon);
+        System.out.println("For: " + dicesStr);
+        System.out.println("Des: " + dicesDex);
+        System.out.println("Con: " + dicesCon);
         System.out.println("Força: " + dicesInt);
         System.out.println("Força: " + dicesWis);
         System.out.println("Força: " + dicesCha);
