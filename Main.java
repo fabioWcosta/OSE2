@@ -7,5 +7,7 @@ public class Main {
         int Dex;
         int Con;
         int Int;
+        int Wis;
+        int Cha;
     }
 }
