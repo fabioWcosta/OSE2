@@ -11,7 +11,7 @@ public class Main {
         double random = Math.random();
         int dicesStr = (int) (1 + random * (18-3));
 
-        System.out.println("Força: " + );
+        System.out.println("Força: " + dicesStr);
 
     }
 }
