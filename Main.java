@@ -7,5 +7,8 @@ public class Main {
         int Int;
         int Wis;
         int Cha;
+
+        double random = Math.random();
+
     }
 }
