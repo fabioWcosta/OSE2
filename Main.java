@@ -5,5 +5,7 @@ public class Main {
 
         int Str;
         int Dex;
+        int Con;
+        int Int;
     }
 }
