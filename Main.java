@@ -20,7 +20,7 @@ public class Main {
         int dicesCon = (int) (1 + conRandom * (18-3));
         int dicesInt = (int) (1 + intRandom * (18-3));
         int dicesWis = (int) (1 + wisRandom * (18-3));
-        int dicesCha = (int) (1 + random * (18-3));
+        int dicesCha = (int) (1 + chaRandom * (18-3));
 
         
         System.out.println("Habilidades do Personagem:");
