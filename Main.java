@@ -25,6 +25,6 @@ public class Main {
         System.out.println("Wis: " + dicesWis);
         System.out.println("Car: " + dicesCha);
 
-        System
+        System.out.println(;)
     }
 }
