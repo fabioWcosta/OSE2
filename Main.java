@@ -12,8 +12,8 @@ public class Main {
         double dexRandom = Math.random();
         double conRandom = Math.random();
         double intRandom = Math.random();
-        double wizRandom = Math.random();
-        double strRandom = Math.random();
+        double wisRandom = Math.random();
+        double chaRandom = Math.random();
 
         int dicesStr = (int) (1 + random * (18-3));
         int dicesDex = (int) (1 + random * (18-3));
