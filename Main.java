@@ -15,12 +15,12 @@ public class Main {
         double wisRandom = Math.random();
         double chaRandom = Math.random();
 
-        int dicesStr = (int) (1 + strRandom * (3-18));
-        int dicesDex = (int) (1 + dexRandom * (3-18));
-        int dicesCon = (int) (1 + conRandom * (3-18));
-        int dicesInt = (int) (1 + intRandom * (3-18));
-        int dicesWis = (int) (1 + wisRandom * (3-18));
-        int dicesCha = (int) (1 + chaRandom * (3-18));
+        int dicesStr = (int) (1 + strRandom * (18));
+        int dicesDex = (int) (1 + dexRandom * (18));
+        int dicesCon = (int) (1 + conRandom * (18));
+        int dicesInt = (int) (1 + intRandom * (18));
+        int dicesWis = (int) (1 + wisRandom * (18));
+        int dicesCha = (int) (1 + chaRandom * (18));
 
         
         System.out.println("Habilidades do Personagem:");
