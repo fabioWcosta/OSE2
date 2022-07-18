@@ -8,7 +8,7 @@ public class Main {
         int Wis;
         int Cha;
 
-        double random = Math.random();
+        double strRandom = Math.random();
         int dicesStr = (int) (1 + random * (18-3));
         int dicesDex = (int) (1 + random * (18-3));
         int dicesCon = (int) (1 + random * (18-3));
