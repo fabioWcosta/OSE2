@@ -31,6 +31,6 @@ public class Main {
         System.out.println("Wis: " + dicesWis);
         System.out.println("Car: " + dicesCha);
 
-        System.out.println("")
+        System.out.println("Ele pode ser um: Guerreiro, Clérigo, Ladrão, Mago");
     }
 }
