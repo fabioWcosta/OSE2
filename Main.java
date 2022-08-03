@@ -22,7 +22,8 @@ public class Main {
         int dicesWis = (int) (1 + wisRandom * (18-3));
         int dicesCha = (int) (1 + chaRandom * (18-3));
 
-        
+        System.out.println("");
+
         System.out.println("Habilidades do Personagem:");
         System.out.println("For: " + dicesStr);
         System.out.println("Des: " + dicesDex);
