@@ -5,8 +5,8 @@ public class Main {
         int Dex = 33;
         int Con = 33;
         int Int = 33;
-        int Wis = 33;
-        int Cha = 33;
+        int Wis;
+        int Cha;
 
         double strRandom = Math.random();
         double dexRandom = Math.random();
