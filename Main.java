@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args){
 
-        int Str = 33;
-        int Dex = 33;
-        int Con = 33;
-        int Int = 33;
+        int Str;
+        int dexRandom;
+        int Con;
+        int Int;
         int Wis;
         int Cha;
 
