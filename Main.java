@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args){
 
-        int Str = 3;
+        int Str = 33;
         int Dex;
         int Con;
         int Int;
