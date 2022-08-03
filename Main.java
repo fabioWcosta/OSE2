@@ -2,11 +2,11 @@ public class Main {
     public static void main(String[] args){
 
         int Str = 33;
-        int Dex;
-        int Con;
-        int Int;
-        int Wis;
-        int Cha;
+        int Dex = 33;
+        int Con = 33;
+        int Int = 33;
+        int Wis = 33;
+        int Cha = 33;
 
         double strRandom = Math.random();
         double dexRandom = Math.random();
