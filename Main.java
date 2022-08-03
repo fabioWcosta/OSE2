@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args){
 
-        int Str;
-        int dexRandom;
+        int Str = 33;
+        int Dex;
         int Con;
         int Int;
         int Wis;
