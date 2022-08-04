@@ -33,7 +33,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
 
         System.out.println("Ele pode ser um: ");
-        if(dicesStr <= 9){
+        if(dicesStr >= 9){
             System.out.println("Guerreiro");
         }else if(dicesDex >= 9){
             System.out.println("Ladrão");
