@@ -36,7 +36,7 @@ public class Main {
         if(dicesStr <= 9){
             System.out.println("Guerreiro");
         }else if(dicesDex >= 9){
-
+            System.out.println("Ladrão");
         }
         System.out.println("");
     }
