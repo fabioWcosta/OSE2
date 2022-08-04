@@ -42,7 +42,7 @@ public class Main {
         }else if(dicesInt >= 9){
             System.out.println("Mago");
         }else{
-        System.out.println("");
+        System.out.println("Tente de novo.");
         }
     }
 }
