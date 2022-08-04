@@ -33,6 +33,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
 
         System.out.println("Ele pode ser um: Guerreiro, Clérigo, Ladrão, Mago");
+        if(){}
         System.out.println("");
         System.out.println("");
     }
