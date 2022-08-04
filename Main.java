@@ -34,9 +34,9 @@ public class Main {
 
         System.out.println("Ele pode ser um: ");
         if(dicesStr <= 9){
-            System.out.println("");
-
-        }
+            System.out.println("Guerreiro");
+        }else if(
+        )
         System.out.println("");
     }
 }
