@@ -41,7 +41,8 @@ public class Main {
             System.out.println("Clérigo");
         }else if(dicesInt >= 9){
             System.out.println("Mago");
-        }
+        }else{
         System.out.println("");
+        }
     }
 }
