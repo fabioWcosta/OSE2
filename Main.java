@@ -37,6 +37,8 @@ public class Main {
             System.out.println("Guerreiro");
         }else if(dicesDex >= 9){
             System.out.println("Ladrão");
+        }else if(dicesWis >= 9){
+            System.out.println("Clérigo");
         }
         System.out.println("");
     }
