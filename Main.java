@@ -24,7 +24,7 @@ public class Main {
 
         System.out.println("");
 
-        System.out.println("Habilidades do Personagem:");
+        System.out.println("Atributos do Personagem:");
         System.out.println("For: " + dicesStr);
         System.out.println("Des: " + dicesDex);
         System.out.println("Con: " + dicesCon);
