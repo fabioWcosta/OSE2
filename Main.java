@@ -37,7 +37,9 @@ public class Main {
         System.out.println("Ele pode ser um: ");
         if(dicesStr >= 9){
             System.out.println("Guerreiro");
-            if()
+            if(dicesStr equals.3){
+
+            }
         }else if(dicesDex >= 9){
             System.out.println("Ladrão");
         }else if(dicesWis >= 9){
