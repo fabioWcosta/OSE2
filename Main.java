@@ -23,7 +23,7 @@ public class Main {
         int dicesCha = (int) (1 + chaRandom * (18-3));
 
         System.out.println("new atributes");
-        System.out.println("new atributes");
+        System.out.println("new skills");
         System.out.println("new atributes");
 
         System.out.println("Atributos :");
