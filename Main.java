@@ -22,7 +22,7 @@ public class Main {
         int dicesWis = (int) (1 + wisRandom * (18-3));
         int dicesCha = (int) (1 + chaRandom * (18-3));
 
-        System.out.println("");
+        System.out.println("new atributes");
 
         System.out.println("Atributos :");
         System.out.println("For: " + dicesStr);
