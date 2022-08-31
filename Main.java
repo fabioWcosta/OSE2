@@ -50,4 +50,5 @@ public class Main {
         System.out.println("Tente de novo.");
         }
     }
+    System.out.println
 }
