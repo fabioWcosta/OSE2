@@ -53,5 +53,5 @@ public class Main {
         }
     }
     System.out.println("Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!");
-    S
+    System.out.println()
 }
