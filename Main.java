@@ -50,5 +50,5 @@ public class Main {
         System.out.println("Tente de novo.");
         }
     }
-    System.out.println("Lembrar:")
+    System.out.println("Lembrar: inserir a seguir um programa que")
 }
