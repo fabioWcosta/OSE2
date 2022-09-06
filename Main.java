@@ -52,7 +52,7 @@ public class Main {
         System.out.println("Tente de novo.");
         }
     }
-    System.out.println("Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!");
+    System.out.println("Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
     //Criar lista com resultados randômicos para tesouros pós-combate
 
     //Também não deixar de gerar uma lista com resultados para testes de MORAL para monstros e adversários
