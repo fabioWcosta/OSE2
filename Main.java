@@ -57,7 +57,7 @@ public class Main {
     //Criar lista com resultados randômicos para tesouros pós-combate
 
     //Também não deixar de gerar uma lista com resultados para testes de MORAL para monstros e adversários
-        public void moralTest(int moral){
+       
             double random = Math.random();
             int moralResult = (int) ((int) 1+(random *(12-2)));
 
@@ -68,5 +68,4 @@ public class Main {
             }else{
                 System.out.println("Sucesso no teste!");
             }
-        }
 }
