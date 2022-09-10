@@ -60,5 +60,7 @@ public class Main {
         public void moralTest(int moral){
             double random = Math.random();
             int moralResult = (int) ((int) 1+(random *(12-2)));
+
+            if()
         }
 }
