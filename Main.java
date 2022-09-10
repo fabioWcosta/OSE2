@@ -63,6 +63,8 @@ public class Main {
 
             if(moralResult <= 6){
                 System.out.println("Falha no teste!");
-            }else{}
+            }else{
+                System.out.println("Sucesso no teste!");
+            }
         }
 }
