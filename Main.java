@@ -9,6 +9,8 @@ public class Main {
         int Wis;
         int Cha;
 
+        int moral;
+
         double strRandom = Math.random();
         double dexRandom = Math.random();
         double conRandom = Math.random();
@@ -55,7 +57,7 @@ public class Main {
     //Criar lista com resultados randômicos para tesouros pós-combate
 
     //Também não deixar de gerar uma lista com resultados para testes de MORAL para monstros e adversários
-        public int moralTest(){
-            
+        public int moralTest(moral){
+
         }
 }
