@@ -58,6 +58,6 @@ public class Main {
 
     //Também não deixar de gerar uma lista com resultados para testes de MORAL para monstros e adversários
         public int moralTest(moral){
-            
+            double random = Math.random();
         }
 }
