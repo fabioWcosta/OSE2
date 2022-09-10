@@ -61,6 +61,8 @@ public class Main {
             double random = Math.random();
             int moralResult = (int) ((int) 1+(random *(12-2)));
 
+            System.out.println();
+
             if(moralResult <= 6){
                 System.out.println("Falha no teste!");
             }else{
