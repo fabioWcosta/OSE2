@@ -61,6 +61,8 @@ public class Main {
             double random = Math.random();
             int moralResult = (int) ((int) 1+(random *(12-2)));
 
-            if(moralResult <= 6)
+            if(moralResult <= 6){
+                
+            }
         }
 }
