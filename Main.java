@@ -60,7 +60,7 @@ public class Main {
             }
         }else if(dicesDex >= 9){
             System.out.println("Ladrão");
-        }else if(dicesWis >= 9){
+        }else if(dicesWis >= 5){
             System.out.println("Clérigo");
         }else if(dicesInt >= 9){
             System.out.println("Mago");
