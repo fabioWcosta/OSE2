@@ -50,7 +50,7 @@ public class Main {
                 System.out.println("Sucesso no teste!");
             }
         }
- */
+ 
 
         System.out.println("Ele pode ser um: ");
         if(dicesStr >= 9){
