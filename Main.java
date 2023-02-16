@@ -26,7 +26,7 @@ public class Main {
         int dicesWis = (int) (1 + wisRandom * (18-3));
         int dicesCha = (int) (1 + chaRandom * (18-3));
 
-        int moralResult = (int) (1 + )
+        int moralResult = (int) (1 + moralRandom * (12 - 2));
 
         System.out.println("new atributes");
         System.out.println("new skills");
