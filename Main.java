@@ -41,7 +41,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
 
 
-        public void moral(moral){
+        /*public void moral(moral){
             double random = Math.random();
             int moralResult = (int) ((int) 1+(random *(12-2)));
 
@@ -52,7 +52,7 @@ public class Main {
             }else{
                 System.out.println("Sucesso no teste!");
             }
-        }
+        }*/
  
 
         System.out.println("Ele pode ser um: ");
