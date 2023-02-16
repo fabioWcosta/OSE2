@@ -18,6 +18,8 @@ public class Main {
         double wisRandom = Math.random();
         double chaRandom = Math.random();
 
+        
+
         int dicesStr = (int) (1 + strRandom * (18-3));
         int dicesDex = (int) (1 + dexRandom * (18-3));
         int dicesCon = (int) (1 + conRandom * (18-3));
