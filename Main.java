@@ -18,14 +18,14 @@ public class Main {
         double wisRandom = Math.random();
         double chaRandom = Math.random();
 
-        
-
         int dicesStr = (int) (1 + strRandom * (18-3));
         int dicesDex = (int) (1 + dexRandom * (18-3));
         int dicesCon = (int) (1 + conRandom * (18-3));
         int dicesInt = (int) (1 + intRandom * (18-3));
         int dicesWis = (int) (1 + wisRandom * (18-3));
         int dicesCha = (int) (1 + chaRandom * (18-3));
+
+        int 
 
         System.out.println("new atributes");
         System.out.println("new skills");
