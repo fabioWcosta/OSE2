@@ -5,6 +5,8 @@ public class Main {
         int Str;
         int Int;
         int Wis;
+        int Dex;
+        int Con;
         int Cha;
 
         int moral;
