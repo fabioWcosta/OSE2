@@ -28,7 +28,7 @@ public class Main {
 
         int moralResult = (int) (1 + moralRandom * (12 - 2));
 
-        System.out.println("teste!");
+        System.out.println("teste!" + moralResult);
 
         System.out.println("new atributes");
         System.out.println("new skills");
