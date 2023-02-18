@@ -40,6 +40,7 @@ public class Main {
         System.out.println("Con: " + dicesCon);
         System.out.println("Int: " + dicesInt);
         System.out.println("Wis: " + dicesWis);
+        
         System.out.println("Car: " + dicesCha);
 
 
