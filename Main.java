@@ -45,11 +45,11 @@ public class Main {
 
         
             double random = Math.random();
-            int moralResdult = (int) ((int) 1+(random *(12-2)));
+            int moralRes = (int) ((int) 1+(random *(12-2)));
 
-            System.out.println("Resultado do teste de Moral:" + moralResult);
+            System.out.println("Resultado do teste de Moral:" + moralRes);
 
-            if(moralResult <= 6){
+            if(moralRes <= 6){
                 System.out.println("Falha no teste!");
             }else{
                 System.out.println("Sucesso no teste!");
