@@ -45,7 +45,7 @@ public class Main {
 
         
             double random = Math.random();
-            int moralRes = (int) ((int) 1+(random *(12-2)));
+            int moralRes = (int) ( 1+(random *(12-2)));
 
             System.out.println("Resultado do teste de Moral:" + moralRes);
 
