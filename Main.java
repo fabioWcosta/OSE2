@@ -42,11 +42,6 @@ public class Main {
         System.out.println("Wis: " + dicesWis);
         System.out.println("Car: " + dicesCha);
 
-
-        while (dicesStr <= 2){
-
-        }
-
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
 
