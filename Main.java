@@ -43,7 +43,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
 
 
-        if()
+        if(dicesStr <= 2)
 
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
