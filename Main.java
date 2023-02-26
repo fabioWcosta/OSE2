@@ -41,6 +41,7 @@ public class Main {
         System.out.println("Int: " + dicesInt);
         System.out.println("Wis: " + dicesWis);
         System.out.println("Car: " + dicesCha);
+System.out.println();
 
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
