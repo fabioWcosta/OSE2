@@ -53,7 +53,7 @@ public class Main {
             }else{
                 System.out.println("Sucesso no teste!");
             }
-            
+            System.out.println();
  
 
         System.out.println("Ele pode ser um: ");
