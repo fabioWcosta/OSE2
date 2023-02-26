@@ -43,8 +43,8 @@ public class Main {
         System.out.println("Car: " + dicesCha);
 
 
-        if(dicesStr <= 2){
-            
+        while (dicesStr <= 2){
+
         }
 
             double random = Math.random();
