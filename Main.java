@@ -27,8 +27,7 @@ public class Main {
         int dicesCha = (int) (1 + chaRandom * (21 - 3));
 
         double doubleRandomNumber = Math.random() * 5;
-        System.out.println("doubleRandomNumber = " + doubleRandomNumber);
-        // fazer o casting do número para um número inteiro
+        
         int randomNumber = (int)doubleRandomNumber;
         System.out.println("randomNumber = " + randomNumber);
 
