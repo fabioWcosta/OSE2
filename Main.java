@@ -26,9 +26,8 @@ public class Main {
         int dicesWis = (int) (1 + wisRandom * (21 - 3));
         int dicesCha = (int) (1 + chaRandom * (21 - 3));
 
-        double doubleRandomNumber = Math.random() * 5;
-        
-        int randomNumber = (int)doubleRandomNumber;
+        double surpresa = Math.random() * 5;
+        int randomNumber = (int)surpresa;
         System.out.println("randomNumber = " + randomNumber);
 
         System.out.println("Atributos :");
