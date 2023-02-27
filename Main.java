@@ -30,10 +30,6 @@ public class Main {
 
         System.out.println("MORAL DO MONSTRO: "+ moralResult);
 
-        System.out.println("new atributes");
-        System.out.println("new skills");
-        System.out.println("new abilities");
-
         System.out.println("Atributos :");
         System.out.println("For: " + dicesStr);
         System.out.println("Des: " + dicesDex);
