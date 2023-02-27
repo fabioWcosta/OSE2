@@ -19,12 +19,12 @@ public class Main {
         double chaRandom = Math.random();
         double moralRandom = Math.random();
 
-        int dicesStr = (int) (1 + strRandom * (3-3));
-        int dicesDex = (int) (1 + dexRandom * (3-3));
-        int dicesCon = (int) (1 + conRandom * (3-3));
-        int dicesInt = (int) (1 + intRandom * (3-3));
-        int dicesWis = (int) (1 + wisRandom * (3-3));
-        int dicesCha = (int) (1 + chaRandom * (3-13));
+        int dicesStr = (int) (1 + strRandom * (3-18));
+        int dicesDex = (int) (1 + dexRandom * (3-18));
+        int dicesCon = (int) (1 + conRandom * (3-18));
+        int dicesInt = (int) (1 + intRandom * (3-18));
+        int dicesWis = (int) (1 + wisRandom * (3-18));
+        int dicesCha = (int) (1 + chaRandom * (3-18));
 
         int moralResult = (int) (1 + moralRandom * (12 - 2));
 
