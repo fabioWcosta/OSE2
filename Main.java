@@ -61,7 +61,6 @@ public class Main {
         if(dicesStr >= 6){
             System.out.println("Guerreiro");
             if(dicesStr == 1 || dicesStr == 2){
-
             }
         }else if(dicesDex >= 9){
             System.out.println("Ladrão");
