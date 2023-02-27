@@ -22,7 +22,7 @@ public class Main {
         int dicesStr = (int) (1 + strRandom * (21 - 3));
         int dicesDex = (int) (1 + dexRandom * (21 - 3));
         int dicesCon = (int) (1 + conRandom * (21 - 3));
-        int dicesInt = (int) (1 + intRandom * (21- 3));
+        int dicesInt = (int) (1 + intRandom * (21 - 3));
         int dicesWis = (int) (1 + wisRandom * (21 - 3));
         int dicesCha = (int) (1 + chaRandom * (21 - 3));
 
