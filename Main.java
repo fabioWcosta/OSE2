@@ -35,6 +35,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
         System.out.println();
 
+        /*
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
 
@@ -45,7 +46,7 @@ public class Main {
                 System.out.println("Sucesso no teste!");
             }
             System.out.println();
- 
+        */    
 
         System.out.println("Ele pode ser um: ");
         if(dicesStr >= 6){
