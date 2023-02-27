@@ -26,6 +26,12 @@ public class Main {
         int dicesWis = (int) (1 + wisRandom * (21 - 3));
         int dicesCha = (int) (1 + chaRandom * (21 - 3));
 
+        double doubleRandomNumber = Math.random() * 5;
+        System.out.println("doubleRandomNumber = " + doubleRandomNumber);
+        // fazer o casting do número para um número inteiro
+        int randomNumber = (int)doubleRandomNumber;
+        System.out.println("randomNumber = " + randomNumber);
+
         System.out.println("Atributos :");
         System.out.println("For: " + dicesStr);
         System.out.println("Des: " + dicesDex);
