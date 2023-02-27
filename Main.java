@@ -35,7 +35,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
         System.out.println();
 
-        double randomNumber = Math.random() * (18 , 3);
+        double randomNumber = Math.random() * (18);
         int supresa = (int) randomNumber;
         System.out.println("Resultado surpresa:" + supresa);
 
