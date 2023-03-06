@@ -73,7 +73,7 @@ public class Main {
     }
 
     public void attack(int AB, int CA) {
-        if
+        if(diceRes >= CA){}
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
