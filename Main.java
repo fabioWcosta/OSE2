@@ -75,9 +75,11 @@ public class Main {
     public static int attack(int AB, int CA) {
         double attackDice = Math.random();
         int diceResult = (int) attackDice *(20-1);
-        System.out.println(" ATTACK TESTE!");
+        
         if(diceResult >= CA){
             System.out.println("ACERTO!!!");
+        }else{
+            System.out.println("ERRO!");
         }
     }
 
