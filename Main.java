@@ -70,7 +70,7 @@ public class Main {
 
     }
 
-    public void ()
+    public void attack(int AB, int CA)
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
     //Criar lista com resultados randômicos para tesouros pós-combate
