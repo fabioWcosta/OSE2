@@ -71,7 +71,7 @@ public class Main {
         }
 
     }
-
+    //Ataque de um personagem a outro:
     public void attack(int AB, int CA) {
         double attackDice = 
         if(diceResult >= CA){
