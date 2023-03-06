@@ -67,7 +67,11 @@ public class Main {
         }else{
         System.out.println("Tente de novo.");
         }
+
+        
     }
+
+
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
     //Criar lista com resultados randômicos para tesouros pós-combate
 
