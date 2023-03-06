@@ -39,6 +39,7 @@ public class Main {
         int supresa = (int) (1 + randomNumber * (18));
         System.out.println("Resultado surpresa:" + supresa);
 
+        //VERIFICAÇÃO DE MORAL 
         /*
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
