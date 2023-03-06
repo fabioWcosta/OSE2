@@ -9,6 +9,7 @@ public class Main {
         int Con;
         int Cha;
 
+        int AB;
         int moral;
 
         double strRandom = Math.random();
@@ -71,7 +72,7 @@ public class Main {
     }
 
     public void attack(int AB, int CA) {
-        
+
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
