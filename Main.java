@@ -74,7 +74,7 @@ public class Main {
     //Ataque de um personagem a outro:
     public void attack(int AB, int CA) {
         double attackDice = Math.random();
-        int diceResult = (int)
+        int diceResult = (int) attackDice *(20-1);
         if(diceResult >= CA){
             System.out.println("ACERTO!!!");
         }
