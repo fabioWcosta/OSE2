@@ -73,7 +73,10 @@ public class Main {
     }
 
     public void attack(int AB, int CA) {
-        if(diceRes >= CA){}
+        double attackDice = 
+        if(diceResult >= CA){
+            System.out.println("ACERTO!!!");
+        }
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
