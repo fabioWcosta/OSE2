@@ -10,6 +10,7 @@ public class Main {
         int Cha;
 
         int AB;
+        int CA;
         int moral;
 
         double strRandom = Math.random();
