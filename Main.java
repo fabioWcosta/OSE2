@@ -84,7 +84,7 @@ public class Main {
             System.out.println("ERROU!");
         }
         return diceResult;
-    }
+    };
     attack(0, 14);
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
