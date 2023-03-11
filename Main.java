@@ -85,7 +85,6 @@ public class Main {
         }
         return diceResult;
     }
-
     attack(0, 14);
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
