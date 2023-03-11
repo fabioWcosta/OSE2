@@ -42,7 +42,7 @@ public class Main {
         System.out.println("Resultado surpresa:" + supresa);
 
         //VERIFICAÇÃO DE MORAL 
-        /*
+        
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
 
@@ -53,7 +53,7 @@ public class Main {
                 System.out.println("Sucesso no teste!");
             }
             System.out.println();
-        */    
+         
 
         System.out.println("Ele pode ser um: ");
         if(dicesStr >= 6){
