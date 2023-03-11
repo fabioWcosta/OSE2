@@ -75,6 +75,8 @@ public class Main {
     public static int attack(int AB, int CA) {
         double attackDice = Math.random();
         int diceResult = (int) attackDice *(20-1);
+
+        System.out.println("Fulaninho ataca Cicrano!");
         
         if(diceResult >= CA){
             System.out.println("ACERTO!!!");
