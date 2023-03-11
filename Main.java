@@ -79,7 +79,7 @@ public class Main {
         if(diceResult >= CA){
             System.out.println("ACERTO!!!");
         }else{
-            System.out.println("ERRO!");
+            System.out.println("ERROU!");
         }
     }
 
