@@ -54,7 +54,7 @@ public class Main {
             }
             System.out.println();
          
-
+        // Definição de classe por atributo
         System.out.println("Ele pode ser um: ");
         if(dicesStr >= 6){
             System.out.println("Guerreiro");
