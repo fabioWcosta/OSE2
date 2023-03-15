@@ -39,7 +39,7 @@ public class Main {
 
         double randomNumber = Math.random();
         int supresa = (int) (1 + randomNumber * (18));
-        System.out.println("Resultado surpresa:" + supresa);
+        System.out.println("Resultado do encontro:" + supresa);
 
         //VERIFICAÇÃO DE MORAL 
         
