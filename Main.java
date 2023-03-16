@@ -39,9 +39,8 @@ public class Main {
         System.out.println();
 
         double randomNumber = Math.random();
-        int supresa = (int) (1 + randomNumber * (18));
-        System.out.println("Resultado do encontro:" + supresa);
-        int surpresa;
+        int surpresa = (int) (1 + randomNumber * (18));
+        System.out.println("Resultado do encontro:" + surpresa);
         if(surpresa >= 4){
             System.out.println("Os monstros são supreendidos!!!");
         }else{
