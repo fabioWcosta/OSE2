@@ -1,3 +1,4 @@
+import javax.sound.midi.Soundbank;
 
 public class Main {
     public static void main(String[] args){
@@ -41,7 +42,7 @@ public class Main {
         int supresa = (int) (1 + randomNumber * (18));
         System.out.println("Resultado do encontro:" + supresa);
         if(surpresa >= 4){
-            
+            System.out.println("Os monstros são supreendidos!!!");
         }
 
         //VERIFICAÇÃO DE MORAL 
