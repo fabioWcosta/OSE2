@@ -44,7 +44,8 @@ public class Main {
         if(surpresa >= 4){
             System.out.println("Os monstros são supreendidos!!!");
         }else{
-            System.out.println("Não houve surpresa");
+            System.out.println("Não houve surpresa.");
+            System.out.println("O combate começa normalmente.");
         }
 
         //VERIFICAÇÃO DE MORAL 
