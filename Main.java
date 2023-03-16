@@ -49,6 +49,7 @@ public class Main {
         }
 
         //VERIFICAÇÃO DE MORAL 
+
         
             double random = Math.random();
             int moralRes = (int) ( 1 + random *(12 - 2));
