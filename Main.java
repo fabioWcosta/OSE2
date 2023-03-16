@@ -22,12 +22,12 @@ public class Main {
         double chaRandom = Math.random();
         double moralRandom = Math.random();
 
-        int dicesStr = (int) (1 + strRandom * (21 - 3));
-        int dicesDex = (int) (1 + dexRandom * (21 - 3));
-        int dicesCon = (int) (1 + conRandom * (21 - 3));
-        int dicesInt = (int) (1 + intRandom * (21 - 3));
-        int dicesWis = (int) (1 + wisRandom * (21 - 3));
-        int dicesCha = (int) (1 + chaRandom * (21 - 3));
+        int dicesStr = (int) (3 + strRandom * (15));
+        int dicesDex = (int) (3 + dexRandom * (15));
+        int dicesCon = (int) (3 + conRandom * (15));
+        int dicesInt = (int) (3 + intRandom * (15));
+        int dicesWis = (int) (3 + wisRandom * (15));
+        int dicesCha = (int) (3 + chaRandom * (15));
 
         System.out.println("Atributos :");
         System.out.println("For: " + dicesStr);
