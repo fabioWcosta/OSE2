@@ -3,6 +3,8 @@ import javax.sound.midi.Soundbank;
 public class Main {
     public static void main(String[] args){
 
+        String oponenteA;
+
         int Str;
         int Int;
         int Wis;
