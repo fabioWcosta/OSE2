@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
 
         String nomeOponenteA;
-        String oponenteB;
+        String nomeOponenteB;
 
         int Str;
         int Int;
