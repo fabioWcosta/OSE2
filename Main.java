@@ -43,7 +43,7 @@ public class Main {
         System.out.println("Car: " + dicesCha);
         System.out.println();
 
-        //Verificação de SURPRESA!
+        //VERIFICAÇÃO DE SURPRESA!
         double randomNumber = Math.random();
         int surpresa = (int) (1 + randomNumber * (18));
         System.out.println("Resultado do encontro:" + surpresa);
