@@ -14,6 +14,8 @@ public class Main {
         int CA;
         int moral;
 
+
+        
         double strRandom = Math.random();
         double intRandom = Math.random();
         double wisRandom = Math.random();
