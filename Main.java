@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args){
 
         String oponenteA;
+        String oponenteB;
 
         int Str;
         int Int;
