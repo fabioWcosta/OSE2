@@ -49,10 +49,10 @@ public class Main {
         System.out.println("Resultado do encontro:" + surpresa);
         if(surpresa <= 4){
             System.out.println("Os monstros são supreendidos!!!");
-        }else if{
+        }else{
             System.out.println("Não houve surpresa.");
             System.out.println("O combate começa normalmente.");
-        }else
+        }
 
         //VERIFICAÇÃO DE MORAL 
             System.out.println();
