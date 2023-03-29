@@ -49,7 +49,7 @@ public class Main {
         System.out.println("Resultado do encontro:" + surpresa);
         if(surpresa <= 4){
             System.out.println("Os monstros são supreendidos!!!");
-        }else{
+        }elseif{
             System.out.println("Não houve surpresa.");
             System.out.println("O combate começa normalmente.");
         }
