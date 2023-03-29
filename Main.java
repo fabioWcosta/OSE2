@@ -18,7 +18,7 @@ public class Main {
         int moral;
 
         System.out.println("Os dois oponentes se encontram...");
-        System.out.println();
+        System.out.println(" ");
 
         double strRandom = Math.random();
         double intRandom = Math.random();
