@@ -14,8 +14,8 @@ public class Main {
         public int Cha;
 
         public int AB;
-        int CA;
-        int moral;
+        public int CA;
+        public int moral;
 
         System.out.println("Os dois oponentes se encontram...");
         System.out.println(" que comece o combate.");
