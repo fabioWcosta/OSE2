@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args){
 
         public String nomeOponenteA;
-        String nomeOponenteB;
+        public String nomeOponenteB;
 
-        int Str;
+        public int Str;
         int Int;
         int Wis;
         int Dex;
