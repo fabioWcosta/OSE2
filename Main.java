@@ -13,7 +13,7 @@ public class Main {
         public int Con;
         public int Cha;
 
-        int AB;
+        public int AB;
         int CA;
         int moral;
 
