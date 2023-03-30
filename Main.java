@@ -7,11 +7,11 @@ public class Main {
         public String nomeOponenteB;
 
         public int Str;
-        int Int;
-        int Wis;
-        int Dex;
-        int Con;
-        int Cha;
+        public int Int;
+        public int Wis;
+        public int Dex;
+        public int Con;
+        public int Cha;
 
         int AB;
         int CA;
