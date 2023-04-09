@@ -3,6 +3,9 @@
 public class Main {
     public static void main(String[] args){
 
+        //OBJETO
+        Opponent op = new Opponent();
+
         //VARIÁVEIS
         public String nomeOponenteA;
         public String nomeOponenteB;
