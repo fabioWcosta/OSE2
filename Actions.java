@@ -14,4 +14,8 @@ public class Actions {
             this.HP = HP;
             this.moral = moral;
         }
+
+        public String presentation(){
+            
+        }
 }
