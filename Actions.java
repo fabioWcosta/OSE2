@@ -1,4 +1,4 @@
 public class Actions {
 
-     = new opponent;
+    = new opponent;
 }
