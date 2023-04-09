@@ -8,6 +8,10 @@ public class Actions {
         public int moral;
 
         public Opponent(String nome, int AB, int CA, int HP, int moral){
-
+            this.nome = nome;
+            this.AB = AB;
+            this.CA = CA;
+            this.HP = HP;
+            this.moral = moral;
         }
 }
