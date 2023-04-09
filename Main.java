@@ -8,12 +8,6 @@ public class Main {
 
         //VARIÁVEIS
         public String nome;
-        public int Str;
-        public int Int;
-        public int Wis;
-        public int Dex;
-        public int Con;
-        public int Cha;
 
         public int AB;
         public int CA;
