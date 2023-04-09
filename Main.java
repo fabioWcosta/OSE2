@@ -8,8 +8,6 @@ public class Main {
 
         //VARIÁVEIS
         public String nomeOponenteA;
-        public String nomeOponenteB;
-
         public int Str;
         public int Int;
         public int Wis;
