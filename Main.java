@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args){
 
-        //VARIAVEIS
+        //VARIÁVEIS
         public String nomeOponenteA;
         public String nomeOponenteB;
 
