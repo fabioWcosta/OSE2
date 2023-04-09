@@ -6,13 +6,6 @@ public class Main {
         //OBJETO
         Opponent op = new Opponent();
 
-        //VARIÁVEIS
-        public String nome;
-
-        public int AB;
-        public int CA;
-        public int moral;
-
         System.out.println("Os dois oponentes se encontram...");
         System.out.println(" que comece o combate.");
 
