@@ -7,7 +7,7 @@ public class Actions {
         public int HP;
         public int moral;
 
-        public Opponent(){
-            
+        public Opponent(String nome, int AB, int CA, int HP, int moral){
+
         }
 }
