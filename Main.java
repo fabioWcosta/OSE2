@@ -7,7 +7,7 @@ public class Main {
         Opponent op = new Opponent();
 
         //VARIÁVEIS
-        public String nomeOponenteA;
+        public String nome;
         public int Str;
         public int Int;
         public int Wis;
