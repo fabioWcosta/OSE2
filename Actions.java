@@ -6,4 +6,8 @@ public class Actions {
         public int CA;
         public int HP;
         public int moral;
+
+        public Opponent(){
+            
+        }
 }
