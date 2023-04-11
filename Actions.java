@@ -16,7 +16,7 @@ public class Actions {
         }
 
         public String presentation(){
-            String presentation = System.out.println("Os oponentes se encontram. E se observam.");
+            System.out.println("Os oponentes se encontram. E se observam.");
             System.out.println("O "+"");
             return presentation;
         }
