@@ -22,7 +22,7 @@ public class Actions {
             return presentation();
         }
 
-        public int reaction(){
-            
+        public int initiative(){
+
         }
 }
