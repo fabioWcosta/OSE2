@@ -21,4 +21,8 @@ public class Actions {
             System.out.println("O "+Op2+" parece tenso..");
             return presentation();
         }
+
+        public int reaction(){
+            
+        }
 }
