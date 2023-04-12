@@ -12,6 +12,7 @@ public class Actions {
             this.AB = AB;
             this.CA = CA;
             this.HP = HP;
+            this.ini = ini;
             this.moral = moral;
         }
 
@@ -25,6 +26,6 @@ public class Actions {
         public int initiative(){
             System.out.println();
             System.out.println("Os oponentes se movem e o combate começa!");
-            
+
         }
 }
