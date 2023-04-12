@@ -5,6 +5,7 @@ public class Actions {
         public int AB;
         public int CA;
         public int HP;
+        public int ini;
         public int moral;
 
         public Opponent(String nome, int AB, int CA, int HP, int moral){
