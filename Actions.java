@@ -23,6 +23,7 @@ public class Actions {
         }
 
         public int initiative(){
-
+            System.out.println();
+            System.out.println();
         }
 }
