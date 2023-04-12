@@ -28,6 +28,6 @@ public class Actions {
             System.out.println();
             System.out.println("Os oponentes se movem e o combate começa!");
             double random = Math.random();
-            int 
+            int iniResult = (int) 1 + ();
         }
 }
