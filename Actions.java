@@ -28,7 +28,7 @@ public class Actions {
         public int initiative(){
             System.out.println();
             System.out.println("Os oponentes se movem e o combate começa!");
-            double random = Math.random();
+            double randIni = Math.random();
             int iniResult = (int) 1 + random * (6 - 1);
             System.out.println(iniResult);
         }
