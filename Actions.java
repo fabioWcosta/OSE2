@@ -29,7 +29,7 @@ public class Actions {
             System.out.println();
             System.out.println("Os oponentes se movem e o combate começa!");
             double randIni = Math.random();
-            int iniResult = (int) 1 + random * (6 - 1);
+            int iniResult = (int) 1 + randIni * (6 - 1);
             System.out.println(iniResult);
         }
 }
