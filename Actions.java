@@ -31,5 +31,6 @@ public class Actions {
             double randIni = Math.random();
             int iniResult = (int) ((int) 1 + randIni * (6 - 1));
             System.out.println(iniResult);
+            return iniResult;
         }
 }
