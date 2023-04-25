@@ -15,7 +15,6 @@ public class Opponent {
     int dicesCon = (int) (3 + conRandom * (15));
     int dicesCha = (int) (3 + chaRandom * (15));
 
-
     System.out.println("Atributos :");
     System.out.println("For: " + dicesStr);
     System.out.println("Int: " + dicesInt);
@@ -24,5 +23,5 @@ public class Opponent {
     System.out.println("Con: " + dicesCon);
     System.out.println("Car: " + dicesCha);
     System.out.println();
-    
+
 }
