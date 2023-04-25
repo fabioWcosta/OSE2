@@ -9,16 +9,6 @@ public class Main {
         System.out.println("Os dois oponentes se encontram...");
         System.out.println(" que comece o combate.");
 
-
-        System.out.println("Atributos :");
-        System.out.println("For: " + dicesStr);
-        System.out.println("Int: " + dicesInt);
-        System.out.println("Wis: " + dicesWis);
-        System.out.println("Des: " + dicesDex);
-        System.out.println("Con: " + dicesCon);
-        System.out.println("Car: " + dicesCha);
-        System.out.println();
-
         //VERIFICAÇÃO DE SURPRESA!
         double randomNumber = Math.random();
         int surpresa = (int) (1 + randomNumber * (18));
