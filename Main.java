@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
 
         //OBJETO
-        Opponent Op1 = new Opponent();
+        opponent Op1 = new opponent();
 
         System.out.println("Os dois oponentes se encontram...");
         System.out.println(" que comece o combate.");
