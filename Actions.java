@@ -16,7 +16,7 @@ public class Actions {
             this.ini = ini;
             this.moral = moral;
 
-            return Opponent;
+            return opponent;
         }
 
         public String presentation(){
