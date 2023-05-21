@@ -34,6 +34,7 @@ public class Main {
         System.out.println();
 
         //VERIFICAÇÃO DE SURPRESA!
+        Se o valor for
         double randomNumber = Math.random();
         int surpresa = (int) (1 + randomNumber * (18));
         System.out.println("Resultado do encontro:" + surpresa);
