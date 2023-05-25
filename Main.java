@@ -36,7 +36,7 @@ public class Main {
         //VERIFICAÇÃO DE SURPRESA!
         // um resultado de 1 ou 2 em 1d6 significa que o lado está surpreso
         double randomNumber = Math.random();
-        int surpresa = (int) (2 + randomNumber * (6-1));
+        int surpresa = (int) (randomNumber * (6-1));
         System.out.println("Resultado do encontro: " + surpresa +" (em 1d6)");
         if(surpresa <= 2){
             System.out.println("Os monstros são supreendidos!!!");
