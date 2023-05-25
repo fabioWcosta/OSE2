@@ -34,7 +34,7 @@ public class Main {
         System.out.println();
 
         //VERIFICAÇÃO DE SURPRESA!
-        // um resultado de 1 ou 2 significa que o lado está surpreso
+        // um resultado de 1 ou 2 em 1d6 significa que o lado está surpreso
         double randomNumber = Math.random();
         int surpresa = (int) (1 + randomNumber * (6-2));
         System.out.println("Resultado do encontro:" + surpresa +"()");
