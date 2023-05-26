@@ -53,7 +53,7 @@ public class Main {
 
             System.out.println("Resultado do teste de Moral: " + moralRes);
             if(moralRes <= 6){
-                System.out.println("Falha no teste! Está batendo em retirada!!!!");
+                System.out.println("Falhou no teste! Está batendo em retirada!!!!");
             }else{
                 System.out.println("Sucesso no teste!");
             }
