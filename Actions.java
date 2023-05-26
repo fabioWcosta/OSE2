@@ -25,7 +25,7 @@ public class Actions {
         }
 
         //Os oponentes comparam suas iniciativas:
-        public int ini(){
+        public int initiative(){
             System.out.println();
             System.out.println("Os oponentes se movem e o combate começa!");
             double randIni = Math.random();
