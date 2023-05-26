@@ -66,10 +66,10 @@ public class Main {
         double attackDice = Math.random();
         int diceResult = (int) attackDice *(20-1);
 
-        System.out.println("Fulaninho ataca Cicrano!");
+        System.out.println("Fulano ataca Cicrano!");
         
         if(diceResult >= CA){
-            System.out.println("ACERTO!!!");
+            System.out.println("ACERTOu!!!");
         }else{
             System.out.println("ERROU!");
         }
