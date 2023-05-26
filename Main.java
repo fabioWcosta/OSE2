@@ -56,7 +56,7 @@ public class Main {
                 System.out.println("Falhou no teste! Está batendo em retirada!!!!");
             }else{
                 System.out.println("Sucesso no teste!");
-                System.out.println();
+                System.out.println("Vai haver combate!");
             }
             System.out.println();
          
