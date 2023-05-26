@@ -7,7 +7,7 @@ public class Main {
         Opponent Op1 = new Opponent();
 
         System.out.println("Os dois oponentes se encontram...");
-        System.out.println(" que comece o combate.");
+        System.out.println(" e que comece o combate.");
 
         double strRandom = Math.random();
         double intRandom = Math.random();
