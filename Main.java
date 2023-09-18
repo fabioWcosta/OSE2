@@ -78,8 +78,9 @@ public class Main {
 
         //OPERADOR TERNÁRIO (IF ELSE REVIEW)
         String nome = "Gustav";
+        String nome2 = "Gustav";
         
-
+        String res;
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
