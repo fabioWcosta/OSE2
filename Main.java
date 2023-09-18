@@ -77,10 +77,12 @@ public class Main {
         return diceResult;
 
         //OPERADOR TERNÁRIO (IF ELSE REVIEW)
-        String nome = "Gustav";
+        String nome1 = "Gustav";
         String nome2 = "Gustav";
         String nome3 = new String();
         String res;
+
+        res = (nome1==nome2);
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
