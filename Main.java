@@ -76,7 +76,7 @@ public class Main {
         }
         return diceResult;
 
-        //
+        //OPERADOR TERNÁRIO ()
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
