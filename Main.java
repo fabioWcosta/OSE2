@@ -82,7 +82,8 @@ public class Main {
         String nome3 = new String();
         String res;
 
-        res = (nome1==nome2);
+        res = (nome1==nome2)?;
+        System.out.println(0)
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
