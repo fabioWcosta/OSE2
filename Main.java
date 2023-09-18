@@ -79,7 +79,7 @@ public class Main {
         //OPERADOR TERNÁRIO (IF ELSE REVIEW)
         String nome = "Gustav";
         String nome2 = "Gustav";
-        
+        String nome3 = new String();
         String res;
     }
 
