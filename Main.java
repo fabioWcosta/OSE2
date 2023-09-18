@@ -77,6 +77,7 @@ public class Main {
         return diceResult;
 
         //OPERADOR TERNÁRIO (IF ELSE REVIEW)
+        String nome = "Gustav";
         
 
     }
