@@ -81,7 +81,7 @@ public class Main {
         String nome2 = "Gustav";
         String nome3 = new String("Gustav");
         String res;
-
+     dasdf
         res = (nome1==nome2)? "igual":"diferente";
         System.out.println(res);
     }
