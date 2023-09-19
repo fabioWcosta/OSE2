@@ -80,8 +80,8 @@ public class Main {
         String nome1 = "Gustav";
         String nome2 = "Gustav";
         String nome3 = new String("Gustav");
-        String res;
-     dasdf
+        String res; 
+        
         res = (nome1==nome2)? "igual":"diferente";
         System.out.println(res);
     }
