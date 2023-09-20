@@ -82,7 +82,7 @@ public class Main {
         String nome3 = new String("Gustav");
         String res; 
         res = (nome1==nome2)? "igual":"diferente";
-        res = (nome1.equals(nome2))?
+        res = (nome1.equals(nome2))? 
         System.out.println(res);
     }
 
