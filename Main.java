@@ -59,7 +59,15 @@ public class Main {
                 System.out.println("Vai haver combate!");
             }
             System.out.println();
-         
+            
+          //OPERADOR TERNÁRIO (IF ELSE REVIEW)
+        String nome1 = "Gustav";
+        String nome2 = "Gustav";
+        String nome3 = new String("Gustav");
+        String res; 
+        res = (nome1==nome2)? "igual":"diferente";
+        res = (nome1.equals(nome2))? "igual":"diferente";
+        System.out.println(res);
 
     }
     //Ataque de um personagem a outro:
