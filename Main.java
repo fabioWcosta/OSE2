@@ -75,16 +75,6 @@ public class Main {
             System.out.println("ERROU!");
         }
         return diceResult;
-
-        //OPERADOR TERNÁRIO (IF ELSE REVIEW)
-        //String nome0 = "";
-        String nome1 = "Gustav";
-        String nome2 = "Gustav";
-        String nome3 = new String("Gustav");
-        String res; 
-        res = (nome1==nome2)? "igual":"diferente";
-        res = (nome1.equals(nome2))? "igual":"diferente";
-        System.out.println(res);
     }
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
