@@ -66,7 +66,7 @@ public class Main {
         String nome3 = new String("Gustav");
         String res; 
         res = (nome1==nome2)? "igual":"diferente";
-        res = (nome1.equals(nome2))? "igual":"diferente";
+        res = (nome1.equals(nome2))? "É igual!":"diferente";
         System.out.println(res);
 
     }
