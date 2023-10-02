@@ -69,9 +69,6 @@ public class Main {
         res = (nome1.equals(nome3))? "É igual!":"Não, é diferente";
         System.out.println(res);
 
-        System.out.println("onde vc vai, Raul?");
-        System.out.println(isso!);
-
     }
     //Ataque de um personagem a outro:
     public static int attack(int AB, int CA) {
