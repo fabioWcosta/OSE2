@@ -68,8 +68,8 @@ public class Main {
         res = (nome1==nome2)? "igual":"São diferentes";
         res = (nome1.equals(nome3))? "É igual!":"Não, é diferente";
         System.out.println(res);
-
     }
+    
     //Ataque de um personagem a outro:
     public static int attack(int AB, int CA) {
         double attackDice = Math.random();
