@@ -69,7 +69,7 @@ public class Main {
         res = (nome1.equals(nome3))? "É igual!":"Não, é diferente";
         System.out.println(res);
 
-        System.out.println();
+        System.out.println("onde vc vai, Raul?");
 
     }
     //Ataque de um personagem a outro:
