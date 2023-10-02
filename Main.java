@@ -69,7 +69,7 @@ public class Main {
         res = (nome1.equals(nome3))? "É igual!":"Não, é diferente";
         System.out.println(res);
     }
-    
+
     //Ataque de um personagem a outro:
     public static int attack(int AB, int CA) {
         double attackDice = Math.random();
@@ -80,7 +80,7 @@ public class Main {
         if(diceResult >= CA){
             System.out.println("ACERTOu!!!");
         }else{
-            System.out.println("ERROU!");
+            System.out.println("ERROU!@@");
         }
         return diceResult;
     }
