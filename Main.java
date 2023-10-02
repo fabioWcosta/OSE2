@@ -80,7 +80,7 @@ public class Main {
         if(diceResult >= CA){
             System.out.println("ACERTOu!!!");
         }else{
-            System.out.println("ERROU!@@");
+            System.out.println("ERROU!!");
         }
         return diceResult;
     }
