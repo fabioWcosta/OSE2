@@ -70,7 +70,7 @@ public class Main {
         System.out.println(res);
 
         System.out.println("onde vc vai, Raul?");
-        System.out.println("isso!");
+        System.out.println(isso!);
 
     }
     //Ataque de um personagem a outro:
