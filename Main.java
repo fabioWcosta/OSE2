@@ -89,6 +89,7 @@ public class Main {
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
     //Criar lista com resultados randômicos para tesouros pós-combate
+    //Gerar um banco de dados c
 
     //Também não deixar de gerar uma lista com resultados para testes de MORAL para monstros e adversários
 }
