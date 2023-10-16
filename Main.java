@@ -89,7 +89,7 @@ public class Main {
 
     //Lembrar: inserir a seguir um programa que gere resultados randômicos para encontros!
     //Criar lista com resultados randômicos para tesouros pós-combate
-    //Gerar um banco de dados capaz de armazenar os stats dos personagens
+    //Gerar um banco de dados capaz de armazenar os stats dos personagens (nome, classe, nivel)
 
     //Também não deixar de gerar uma lista com resultados para testes de MORAL para monstros e adversários
 }
