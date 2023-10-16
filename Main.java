@@ -60,7 +60,7 @@ public class Main {
             }
             System.out.println();
 
-            
+         /*   
         //OPERADOR TERNÁRIO (IF ELSE REVIEW)
         String nome1 = "Gustav";
         String nome2 = "Gustav";
