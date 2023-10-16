@@ -24,7 +24,7 @@ public class Actions {
             return presentation();
         }
 
-        //Os oponentes comparam suas iniciativas:
+        //Os oponentes comparam suas iniciativas (em 1D6):
         public int initiative(){
             System.out.println();
             System.out.println("Os oponentes se movem e o combate começa!");
