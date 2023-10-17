@@ -46,8 +46,6 @@ public class Main {
             System.out.println("O combate começa normalmente.");
         }
 
-
-
         //Os oponentes comparam suas iniciativas (em 1D6):
         public int initiative(){
             System.out.println();
