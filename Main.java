@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("Os dois oponentes se encontram...");
         System.out.println(" e um combate começa.");
+        System.out.println("Iniciativas sendo roladas!");
 
         double strRandom = Math.random();
         double intRandom = Math.random();
