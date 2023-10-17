@@ -25,14 +25,5 @@ public class Actions {
         }
 
         
-
-        //Os oponentes comparam suas iniciativas (em 1D6):
-        public int initiative(){
-            System.out.println();
-            System.out.println("Os oponentes se movem e o combate começa!");
-            double randIni = Math.random();
-            int iniResult = (int) ((int) 1 + randIni * (6 - 1));
-            System.out.println(iniResult);
-            return iniResult;
         }
 }
