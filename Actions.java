@@ -8,7 +8,7 @@ public class Actions {
         public int ini;
         public int moral;
 
-        public void Opponent(String nome, int AB, int CA, int HP, int moral){
+        public void Opponent(String nome, int AB, int CA, int HP, int ini, int moral){
             this.nome = nome;
             this.AB = AB;
             this.CA = CA;
