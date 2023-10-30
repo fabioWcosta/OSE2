@@ -5,6 +5,7 @@ public class Main {
 
         //OBJETO
         Opponent Op = new Opponent();
+        Opponent Op1;
 
         System.out.println("Os dois oponentes se encontram...");
         System.out.println(" e um combate começa.");
